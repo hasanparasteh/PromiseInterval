@@ -1,0 +1,16 @@
+{
+  "name": "promise_interval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --build && node src/index.js",
+    "example": "tsc --build example && node example/example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
